@@ -1,0 +1,11 @@
+body {
+  display: grid;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  place-self: center;
+  width: 400px;
+  height: 300px;
+}
